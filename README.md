@@ -1,5 +1,4 @@
 # HTML-Simple
-# Proyek Keren
 
 Yo yo yo! Selamat datang di proyek keren ini! 👋 Ini adalah tempat di mana kita nge-code dengan gaya, kece, dan tanpa ribet. 
 
